@@ -100,12 +100,13 @@ Output Waveform
 
 
 TABULATION:
+![Exp - 1](https://github.com/user-attachments/assets/53d18e05-6f06-48db-8a58-a9fa6e8eaf33)
 
 
 
 Calculation
 1.	ma (Theory) = am/ac = 0.48
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.3424
 
 
 MODEL GRAPH
